@@ -1,0 +1,23 @@
+@keyframes move-wrapper {
+    10%{
+        margin-left: 252px;
+    }
+    20%{
+        margin-left: 489px;
+    }
+    30%{
+        margin-left: 726px;
+    }
+    40%{
+        margin-left: 963px;
+    }
+    50%{
+        margin-left: 1200px;
+    }
+    60%{
+        margin-left: 1437px;
+    }
+    100%{
+        margin-left: 1674px;
+    }
+}
